@@ -27,7 +27,6 @@ crccheck==0.6
 cryptography==2.7
 cycler==0.10.0
 dask==2.26.0
-dataclasses==0.8
 decorator==4.4.0
 defusedxml==0.6.0
 distributed==2.26.0
