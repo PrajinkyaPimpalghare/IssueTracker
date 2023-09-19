@@ -109,7 +109,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need assistance, please feel free to contact the project maintainer:
 
 - **Name:** [Prajinkya Pimpalghare](https://github.com/PrajinkyaPimpalghare)
-- **Email:** your@email.com
 
 ## Acknowledgments
 
